@@ -1,0 +1,15 @@
+[History]
+B0=Project1/Module1/getQsetting
+B1=Project1/cDIBSection/LoadPictureBlt
+B2=Project1/Module1/GetScreenSnapshot
+B3=Project1/Form1/Form_MouseUp
+B4=Project1/Form1/movelines
+B5=Project1/Helpers/LoadJPG
+B6=Project1/Helpers/SaveJPG
+B7=Project1/cDIBSection/CreateDIB
+B8=Project1/cDIBSection/CreateFromPicture
+B9=Project1/MDIForm1/mnuGrabScreen_Click
+B10=Project1/frmChild/Form_Click
+B11=Project1/Form1/Form_MouseDown
+B12=Project1/MDIForm1/mnuSave_Click
+B13=Project1/MDIForm1/Timer1_Timer
